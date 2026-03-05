@@ -7,11 +7,6 @@ import random
 # & "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome_debug_profile"
 # https://sauce-demo.myshopify.com/account/register
 
-from playwright.sync_api import sync_playwright
-import keyboard
-import time
-import random
-
 DATA = {
     "first": "John",
     "last": "Doe",

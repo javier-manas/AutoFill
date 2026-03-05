@@ -3,6 +3,7 @@ import keyboard
 import time
 import random
 
+#Powershell:
 # & "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\chrome_debug_profile"
 # https://sauce-demo.myshopify.com/account/register
 
